@@ -1,4 +1,4 @@
-package ca.bcit.comp1510.lab11;
+package ca;
 
 /**
  * Item class. An item is defined by it's name, price and quantity.
